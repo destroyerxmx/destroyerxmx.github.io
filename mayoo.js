@@ -9,7 +9,7 @@ elements.mayoo = {
 
 
 elements.soup = {
-  color: "#FFFF4D"
+  color: "#FFFF4D",
   behavior: behaviors.LIQUID,
   category: "liquids",
   viscocity: 74000,
